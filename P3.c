@@ -31,3 +31,4 @@ int main(){
   }
   printf("\nString convertida %i",res);
   getchar();
+ 
